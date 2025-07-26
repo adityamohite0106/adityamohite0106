@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Mohite</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://aditya-portfolio-sepia-beta.vercel.app/](https://aditya-portfolio-sepia-beta.vercel.app/)
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1N47xh3sSeR1RTI6jb9TzsO85Ef7K6GxFlvzWuR1OedQ/edit?usp=sharing](https://docs.google.com/document/d/1N47xh3sSeR1RTI6jb9TzsO85Ef7K6GxFlvzWuR1OedQ/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
