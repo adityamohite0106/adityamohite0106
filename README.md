@@ -14,4 +14,9 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityamohite0106&show_icons=true&locale=en&layout=compact" alt="adityamohite0106" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=adityamohite0106&show_icons=true&locale=en" alt="adityamohite0106" /></p>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=adityamohite0106&show_icons=true&locale=en&hide=prs,issues,contribs,stars" 
+    alt="adityamohite0106" 
+  />
+</p>
