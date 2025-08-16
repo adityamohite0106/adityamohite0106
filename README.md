@@ -16,4 +16,4 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityamohite0106&show_icons=true&locale=en" alt="adityamohite0106" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=adityamohite0106&show_icons=true&locale=en" alt="adityamohite0106" /></p>
